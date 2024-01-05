@@ -1,5 +1,5 @@
 # Varied Ventures
-
+## Demo: https://varied-ventures.netlify.app/
 ## A React-based website with features like rating, data fetching, and more.
 
 ## Packages Used
